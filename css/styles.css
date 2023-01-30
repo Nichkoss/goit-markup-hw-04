@@ -487,8 +487,6 @@ button:hover,button:focus{
     background: var(--bg-light-cloud);
     color: var(--activate-iris);
     border: 1px solid var(--accent);
-
-
 }
 
 .ctg-btn:hover,
